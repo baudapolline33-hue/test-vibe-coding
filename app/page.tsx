@@ -133,7 +133,7 @@ export default function Home() {
               transition={{ delay: 3.02, duration: 0.65 }}
             >
               <p className="hero-deck">
-                Dans deux mois, les meilleurs joueurs de la planète se retrouvent au cœur du
+                Dans deux petits mois, les meilleurs joueurs de la planète se retrouvent au cœur du
                 Vaucluse.
               </p>
               <a className="round-link" href="#tournoi" aria-label="Découvrir le tournoi">
