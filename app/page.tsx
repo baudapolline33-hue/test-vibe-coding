@@ -122,7 +122,7 @@ export default function Home() {
                 animate={{ opacity: 1, y: 0, rotate: 0 }}
                 transition={{ delay: 2.8, duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
               >
-                À ORANGE<span className="title-period">.</span>
+                À L'ORANGE<span className="title-period">.</span>
               </motion.span>
             </h1>
 
